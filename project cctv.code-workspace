@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "project cctv",
+			"path": "project cctv"
+		},
+		{
+			"name": "cctv2",
+			"path": "cctv2"
+		},
+		{
+			"name": "yolov51",
+			"path": "yolov51"
+		}
+	],
+	"settings": {}
+}
